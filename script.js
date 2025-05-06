@@ -1,4 +1,4 @@
-console.log("Welcome to Spotify");
+console.log("Welcome to My Spotify App");
 
 // Initialize variables
 let songIndex = 0;
